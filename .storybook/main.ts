@@ -5,8 +5,12 @@ const config: StorybookConfig = {
   framework: "@storybook/react-vite",
   refs: {
     "site-web": {
-      title: "Site Web",
+      title: "Hub",
       url: "https://sb-q4vk7z.jakoblui.com",
+    },
+    "cv-web": {
+      title: "CV Generator",
+      url: "https://sb-m7xq2d.jakoblui.com",
     },
   },
 };
