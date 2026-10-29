@@ -9,8 +9,12 @@ const config: StorybookConfig = {
       url: "https://sb-q4vk7z.jakoblui.com",
     },
     "cv-web": {
-      title: "CV Generator",
+      title: "CV Assembler",
       url: "https://sb-m7xq2d.jakoblui.com",
+    },
+    "shared-ui": {
+      title: "Shared UI",
+      url: "https://sb-3apqs2.jakoblui.com",
     },
   },
 };
