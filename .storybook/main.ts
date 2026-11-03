@@ -12,6 +12,10 @@ const config: StorybookConfig = {
       title: "CV Assembler",
       url: "https://sb-m7xq2d.jakoblui.com",
     },
+    "ats-web": {
+      title: "ATS Check",
+      url: "https://sb-4t6xju.jakoblui.com",
+    },
     "shared-ui": {
       title: "Shared UI",
       url: "https://sb-3apqs2.jakoblui.com",
